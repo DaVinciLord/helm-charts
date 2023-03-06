@@ -3,6 +3,16 @@ entries:
   the-chooser:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-03-06T20:56:22.603524536Z"
+    description: A Helm chart for Kubernetes
+    digest: ac77f3c9d56d961afea9e1ee78b0c21b510fbe0f2c691eb18a07b4c2cbb80576
+    name: the-chooser
+    type: application
+    urls:
+    - https://github.com/DaVinciLord/helm-charts/releases/download/the-chooser-1.0.2/the-chooser-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2023-03-06T19:41:53.739040034Z"
     description: A Helm chart for Kubernetes
     digest: 9c93310457a3baa321fc4dbb46c067c6f001bfbea97c82960b2a80624ccbe19c
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/DaVinciLord/helm-charts/releases/download/the-chooser-1.0.0/the-chooser-1.0.0.tgz
     version: 1.0.0
-generated: "2023-03-06T19:41:53.739050834Z"
+generated: "2023-03-06T20:56:22.603537036Z"
